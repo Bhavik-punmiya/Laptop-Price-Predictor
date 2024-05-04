@@ -3,6 +3,8 @@
 This project aims to predict the prices of laptops using machine learning techniques. The dataset required extensive cleaning and feature engineering due to variations in column values.
 
 ## Streamlit Application 
+![image](https://github.com/Bhavik-punmiya/Laptop-Price-Predictor/assets/118907757/94529618-73d6-42a2-a319-0f0c2657f42f)
+
 
 
 ## Project Overview
